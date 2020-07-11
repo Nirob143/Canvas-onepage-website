@@ -1,0 +1,90 @@
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+ 
+
+
+
+
+
+
+
+	}
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .text h1 {
+	font-size: 25px;
+}
+.header-text h1 {
+	font-size: 35px;
+	line-height: 53px;
+}
+.header-content p {
+	font-size: 17px;
+	margin-top: 130px;
+}
+.section-title h1 {
+	font-size: 26px;
+}
+
+
+
+
+}
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+  
+.header-text h1 {
+	font-size: 24px;
+	line-height: 38px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.header-content p {
+	font-size: 16px;
+	margin-top: 0;
+	color: #111;
+}
+.text h1 {
+	font-size: 18px;
+	padding: 10px;
+}
+.section-title h1 {
+	font-size: 22px;
+	margin-top: 37px;
+}
+.footer-content h4 {
+	font-size: 25px;
+}
+.contact {
+	margin: 0;
+}
+.contact-form form input {
+   padding: 0px;
+}
+.contact-form form p {;
+	font-size: 15px;
+}
+.contact-form form input[type="submit"] {
+	font-size: 15px;
+}
+.footer-content p {
+	font-size: 15px;
+}
+.footer-content h4 {
+	font-size: 18px;
+}
+.footer-content span {
+	text-transform: capitalize;
+	font-size: 18px;
+}
+
+}
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+	
+}
